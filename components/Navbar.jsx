@@ -18,7 +18,7 @@ export default function Navbar() {
         <li>
           <a
             href="#about"
-            className="hover:text-cyan-400 transition-colors duration-300 block"
+            className="inline-block border border-cyan-400 text-cyan-400 px-6 py-3 rounded hover:bg-cyan-400 hover:text-gray-900 transition duration-300"
           >
             About
           </a>
@@ -26,7 +26,7 @@ export default function Navbar() {
         <li>
           <a
             href="#projects"
-            className="hover:text-cyan-400 transition-colors duration-300 block"
+            className="inline-block border border-cyan-400 text-cyan-400 px-6 py-3 rounded hover:bg-cyan-400 hover:text-gray-900 transition duration-300"
           >
             Projects
           </a>
@@ -34,7 +34,7 @@ export default function Navbar() {
         <li>
           <a
             href="#contact"
-            className="hover:text-cyan-400 transition-colors duration-300 block"
+            className="inline-block border border-cyan-400 text-cyan-400 px-6 py-3 rounded hover:bg-cyan-400 hover:text-gray-900 transition duration-300"
           >
             Contact
           </a>

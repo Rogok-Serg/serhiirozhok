@@ -15,17 +15,16 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="bg-gray-900 text-white scroll-smooth min-h-screen flex">
-        <aside className="fixed top-0 left-0 h-full w-2/5 bg-gray-900 py-24 px-6 flex flex-col">
-          <div className="flex flex-col gap-8 flex-grow  px-4 sm:px-8 md:px-16 lg:px-24 max-w-6xl">
+      <main className="bg-gray-900 text-white scroll-smooth min-h-screen flex flex-col lg:flex-row">
+        <aside className="min-h-screen w-full lg:w-2/5 bg-gray-900 py-24 px-6 flex flex-col justify-between">
+          <div className="flex flex-col gap-8 flex-grow  px-4 sm:px-8 md:px-16 lg:px-8 max-w-6xl">
             <Hero />
             <Navbar />
           </div>
           <Footer className="mt-auto" />
         </aside>
 
-        {/* Права колонка - відступ зліва 40%, займає решту */}
-        <section className="ml-[40%] flex-grow p-8 space-y-16 overflow-y-auto max-h-screen">
+        <section className="w-full lg:w-3/5 p-6 sm:p-8 space-y-16 lg:overflow-y-auto lg:max-h-screen">
           <About />
           <Projects />
           <Contact />
