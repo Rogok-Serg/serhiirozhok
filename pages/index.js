@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>My Portfolio</title>
+        <title>Serhii Rozhok</title>
         <meta name="description" content="Frontend Developer Portfolio" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
