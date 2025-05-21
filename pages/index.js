@@ -13,7 +13,7 @@ export default function Home() {
       <Head>
         <title>Serhii Rozhok</title>
         <meta name="description" content="Frontend Developer Portfolio" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </Head>
 
       <main className="bg-gray-900 text-white scroll-smooth min-h-screen flex flex-col lg:flex-row">
