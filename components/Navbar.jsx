@@ -3,12 +3,18 @@ import useActiveSection from "../hooks/useActiveSection";
 
 const btnNav = [
   { label: "About", href: "#about", id: "about" },
+  { label: "Experience", href: "#experience", id: "experience" },
   { label: "Projects", href: "#projects", id: "projects" },
   { label: "Contact", href: "#contact", id: "contact" },
 ];
 
 export default function Navbar() {
-  const active = useActiveSection(["about", "projects", "contact"]);
+  const active = useActiveSection([
+    "about",
+    "projects",
+    "contact",
+    "experience",
+  ]);
 
   return (
     <nav>

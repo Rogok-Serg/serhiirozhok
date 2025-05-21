@@ -2,6 +2,7 @@ import Head from "next/head";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import About from "../components/About";
+import Experience from "../components/Experience";
 import Projects from "../components/Projects";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
@@ -26,6 +27,7 @@ export default function Home() {
 
         <section className="w-full lg:w-3/5 p-6 sm:p-8 space-y-16 lg:overflow-y-auto lg:max-h-screen">
           <About />
+          <Experience />
           <Projects />
           <Contact />
         </section>
