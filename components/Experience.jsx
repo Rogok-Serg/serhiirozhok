@@ -10,10 +10,55 @@ export default function Experience() {
         Experience
       </h2>
       <div className="text-gray-300 space-y-4 text-base leading-relaxed">
-        <p>
-          You can view or download my resume in PDF format by clicking the
-          button below:
-        </p>
+        <div>
+          <h3 className="text-xl font-semibold text-white">
+            Frontend Developer · SMM Oksima Group
+          </h3>
+          <p className="text-sm text-gray-400 mb-1">
+            Apr 2024 – Aug 2024 · 5 months · Remote
+          </p>
+          <p className="mb-3">
+            Project-based collaboration on a contact management application.
+          </p>
+
+          <ul className="list-disc list-inside space-y-1 text-sm sm:text-base">
+            <li>
+              Developed a responsive contact management app with filtering and
+              pagination.
+            </li>
+            <li>
+              Implemented adding, editing, and deleting contacts using{" "}
+              <span className="text-cyan-400">Redux Toolkit</span> and{" "}
+              <span className="text-cyan-400">redux-persist</span>.
+            </li>
+            <li>
+              Integrated <span className="text-cyan-400">React Router v6</span>{" "}
+              for intuitive navigation and routing.
+            </li>
+            <li>
+              Designed a UI using{" "}
+              <span className="text-cyan-400">Ant Design</span> components.
+            </li>
+            <li>
+              Applied <span className="text-cyan-400">nanoid</span> for
+              generating unique contact IDs and{" "}
+              <span className="text-cyan-400">react-redux</span> for global
+              state management.
+            </li>
+            <li>
+              Structured the codebase with modular architecture, separating
+              components, logic, styles, and services.
+            </li>
+            <li>
+              Followed <span className="text-cyan-400">ESLint</span> rules and
+              clean code principles for maintainability.
+            </li>
+            <li>
+              Collaborated with designers and backend developers to ensure
+              high-quality results.
+            </li>
+          </ul>
+        </div>
         <div className="flex flex-col sm:flex-row gap-4">
           <a
             href="/Serhii_Rozhok_Frontend_developer.pdf"

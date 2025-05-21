@@ -33,7 +33,7 @@ export default function About() {
       <div className="flex flex-col items-center gap-10">
         <div className="w-full max-w-xs aspect-[3/5] relative rounded-xl overflow-hidden shadow-xl border-2 border-cyan-400">
           <Image
-            src="https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747812692/my-portfolio/portfolio-photo_bfnkid.jpg"
+            src="https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747831313/my-portfolio/portfolio-photo_xzxlg0.jpg"
             alt="Serhii profile photo"
             fill
             className="object-cover"
