@@ -1,34 +1,62 @@
-[
-  {
-    "title": "Flexicar",
-    "description": "Flexicar is a modern, responsive landing page for a fictional car rental service. It showcases clean design, smooth layout, and a strong focus on accessibility and mobile-first responsiveness — all built using only HTML, CSS, and vanilla JavaScript.",
-    "tech": ["HTML", "CSS", "Java Script"],
-    "github": "https://github.com/Rogok-Serg/flexicar",
-    "demo": "https://flexicar.vercel.app/",
-    "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739358/my-portfolio/713cc2c6-2cef-42db-8eea-273fcfd322fb.png"
-  },
-  {
-    "title": "Meme Catalog",
-    "description": "Meme Catalog is a responsive web application that allows users to explore, view, and manage a collection of memes. Built with React and styled using Tailwind CSS and HeroUI, the app features an interactive table view and card view, complete with editing modals and real-time form validation.",
-    "tech": ["Next.js", "HeroUI", "Tailwind CSS", "Railway"],
-    "github": "https://github.com/Rogok-Serg/meme-catalog",
-    "demo": "https://meme-catalog-production-6ee7.up.railway.app/",
-    "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739581/my-portfolio/241a88a4-9258-45f4-a08d-292a9c55ace9.png"
-  },
-  {
-    "title": "Spider - Man Hero Page",
-    "description": "A responsive heroine page inspired by the style of Spider-Man: No Way Home. The project was created with a focus on modern design, animation, a mobile-first approach, and optimization for different screens.",
-    "tech": ["HTML", "CSS", "Java Script", "Tailwind CSS", "Vite"],
-    "github": "https://github.com/Rogok-Serg/hero-page",
-    "demo": "https://rogok-serg.github.io/hero-page/",
-    "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739554/my-portfolio/24ad346e-df7e-4446-9978-785fd21f7cfe.png"
-  },
-  {
-    "title": "Web Studio",
-    "description": "This is my first educational project — a multi-section landing page for a fictional web studio. It was built from scratch using only HTML, CSS, and JavaScript, focusing on the fundamentals of responsive layout, semantic structure, and basic DOM interactions.",
-    "tech": ["HTML", "CSS", "Java Script"],
-    "github": "https://github.com/Rogok-Serg/fe-78-hw-7",
-    "demo": "https://rogok-serg.github.io/fe-78-hw-7/",
-    "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739295/my-portfolio/da7dd304-bdd2-4230-a134-71e0c7272d0d.png"
-  }
-]
+{
+  "personal": [
+    {
+      "title": "Flexicar",
+      "description": "Flexicar is a modern, responsive landing page for a fictional car rental service. It showcases clean design, smooth layout, and a strong focus on accessibility and mobile-first responsiveness — all built using only HTML, CSS, and vanilla JavaScript.",
+      "tech": ["HTML", "CSS", "Java Script"],
+      "github": "https://github.com/Rogok-Serg/flexicar",
+      "demo": "https://flexicar.vercel.app/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739358/my-portfolio/713cc2c6-2cef-42db-8eea-273fcfd322fb.png"
+    },
+    {
+      "title": "Meme Catalog",
+      "description": "Meme Catalog is a responsive web application that allows users to explore, view, and manage a collection of memes. Built with React and styled using Tailwind CSS and HeroUI, the app features an interactive table view and card view, complete with editing modals and real-time form validation.",
+      "tech": ["Next.js", "HeroUI", "Tailwind CSS", "Railway"],
+      "github": "https://github.com/Rogok-Serg/meme-catalog",
+      "demo": "https://meme-catalog-production-6ee7.up.railway.app/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739581/my-portfolio/241a88a4-9258-45f4-a08d-292a9c55ace9.png"
+    },
+    {
+      "title": "Spider - Man Hero Page",
+      "description": "A responsive heroine page inspired by the style of Spider-Man: No Way Home. The project was created with a focus on modern design, animation, a mobile-first approach, and optimization for different screens.",
+      "tech": ["HTML", "CSS", "Java Script", "Tailwind CSS", "Vite"],
+      "github": "https://github.com/Rogok-Serg/hero-page",
+      "demo": "https://rogok-serg.github.io/hero-page/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739554/my-portfolio/24ad346e-df7e-4446-9978-785fd21f7cfe.png"
+    },
+    {
+      "title": "Web Studio",
+      "description": "This is my first educational project — a multi-section landing page for a fictional web studio. It was built from scratch using only HTML, CSS, and JavaScript, focusing on the fundamentals of responsive layout, semantic structure, and basic DOM interactions.",
+      "tech": ["HTML", "CSS", "Java Script"],
+      "github": "https://github.com/Rogok-Serg/fe-78-hw-7",
+      "demo": "https://rogok-serg.github.io/fe-78-hw-7/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739295/my-portfolio/da7dd304-bdd2-4230-a134-71e0c7272d0d.png"
+    }
+  ],
+  "team": [
+    {
+      "title": "Cinemania",
+      "description": "A landing page created by our team to showcase JS fundamentals and teamwork.",
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "github": "",
+      "demo": "https://oleksiivts.github.io/team-js-goit/index.html",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838047/my-portfolio/3342c7ca-c4a2-4216-a9bd-1e5f24c7cc69.png"
+    },
+    {
+      "title": "MIMINO",
+      "description": "Team project focusing on responsive web design and modular JS architecture.",
+      "tech": ["HTML", "SCSS", "JavaScript", "Parcel"],
+      "github": "",
+      "demo": "https://oleksiivts.github.io/goit-team-prog-g7/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838448/my-portfolio/43d6f2c1-77b6-4587-9aea-5d19d88ea5ef.png"
+    },
+    {
+      "title": "GooseTrack",
+      "description": "Final collaborative project involving async operations, API integration, and UX polish.",
+      "tech": ["HTML", "CSS", "JavaScript", "REST API"],
+      "github": "",
+      "demo": "https://oleksiivts.github.io/final-project-frontend/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838726/my-portfolio/7e581863-8253-4305-b15a-ee394ead91e6.png"
+    }
+  ]
+}
