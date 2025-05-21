@@ -59,16 +59,16 @@ export default function Experience() {
             </li>
           </ul>
         </div>
-        <div className="flex flex-col sm:flex-row gap-4">
-          <a
-            href="/Serhii_Rozhok_Frontend_developer.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-block min-w-14 border border-cyan-400 text-cyan-400 px-6 py-3 rounded hover:bg-cyan-400 hover:text-gray-900 transition duration-300"
-          >
-            View My Resume (PDF)
-          </a>
-        </div>
+      </div>
+      <div className="mt-20 flex flex-col sm:flex-row gap-4">
+        <a
+          href="/Serhii_Rozhok_Frontend_developer.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block min-w-14 border border-cyan-400 text-cyan-400 px-6 py-3 rounded hover:bg-cyan-400 hover:text-gray-900 transition duration-300"
+        >
+          View Resume (PDF)
+        </a>
       </div>
     </section>
   );

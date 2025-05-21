@@ -8,9 +8,9 @@ export default function Hero() {
         I build things for the web.
       </h2>
       <p className="text-gray-300 max-w-xl mb-8">
-        I'm a frontend developer specializing in building (and occasionally
-        designing) responsive and high-quality websites and applications using
-        React, Tailwind CSS, and more
+        I'm a frontend developer specializing in building responsive and
+        high-quality websites and applications using React, Tailwind CSS, and
+        more
       </p>
     </section>
   );
