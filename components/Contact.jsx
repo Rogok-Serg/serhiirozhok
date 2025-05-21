@@ -4,7 +4,7 @@ export default function Contact() {
       id="contact"
       className="py-20 px-4 sm:px-8 md:px-16 lg:px-24 max-w-3xl mx-auto text-center scroll-mt-24"
     >
-      <h2 className="text-2xl sm:text-3xl font-bold text-white mb-4 border-b border-gray-700 pb-2">
+      <h2 className="text-3xl sm:text-4xl font-bold text-white mb-10 border-b border-gray-700 pb-2">
         Get In Touch
       </h2>
       <p className="text-gray-300 text-base sm:text-lg mb-6">
