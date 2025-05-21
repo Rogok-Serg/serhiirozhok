@@ -36,24 +36,36 @@
   "team": [
     {
       "title": "Cinemania",
-      "description": "A landing page created by our team to showcase JS fundamentals and teamwork.",
-      "tech": ["HTML", "CSS", "JavaScript"],
+      "description": "Web application for browsing and managing movies. I was responsible for implementing the movie catalog grid on the CATALOG page. I integrated the API to fetch and display selected movies and developed a dynamic rating system with stars",
+      "tech": ["HTML", "CSS", "JavaScript", "Parcel"],
       "github": "",
       "demo": "https://oleksiivts.github.io/team-js-goit/index.html",
       "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838047/my-portfolio/3342c7ca-c4a2-4216-a9bd-1e5f24c7cc69.png"
     },
     {
-      "title": "MIMINO",
-      "description": "Team project focusing on responsive web design and modular JS architecture.",
-      "tech": ["HTML", "SCSS", "JavaScript", "Parcel"],
+      "title": "MIMINO Hotel-Restaurant Complex",
+      "description": "Website for a hotel and restaurant complex. I was responsible for the HOTEL page, where I developed the room descriptions and implemented responsive image sliders using Swiper.js",
+      "tech": ["HTML", "SCSS", "JavaScript", "Swiper.js", "Parcel"],
       "github": "",
       "demo": "https://oleksiivts.github.io/goit-team-prog-g7/",
       "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838448/my-portfolio/43d6f2c1-77b6-4587-9aea-5d19d88ea5ef.png"
     },
     {
       "title": "GooseTrack",
-      "description": "Final collaborative project involving async operations, API integration, and UX polish.",
-      "tech": ["HTML", "CSS", "JavaScript", "REST API"],
+      "description": "A full-featured task management web app built as a final team project. Includes user authentication, calendar-based task planning, personal dashboards, and activity statistics. My role was to develop the Statistics page: I implemented responsive layout, data visualization using Chart.js, and integrated real-time data from Redux store",
+      "tech": [
+        "React",
+        "Redux",
+        "Node.js",
+        "Axios",
+        "JWT",
+        "Mongoose",
+        "Swiper",
+        "Redux Persist",
+        "Styled Components",
+        "React Datepicker",
+        "Date-fns"
+      ],
       "github": "",
       "demo": "https://oleksiivts.github.io/final-project-frontend/",
       "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747838726/my-portfolio/7e581863-8253-4305-b15a-ee394ead91e6.png"
