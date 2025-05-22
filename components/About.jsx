@@ -48,8 +48,9 @@ export default function About() {
           </p>
           <p>
             I specialize in building responsive websites using modern
-            technologies like React, Tailwind CSS, and more. I enjoy turning
-            ideas into reality and constantly learning new tools and techniques
+            technologies like React, Next, Tailwind CSS, and more. I enjoy
+            turning ideas into reality and constantly learning new tools and
+            techniques
           </p>
           <p>
             In addition to coding, I enjoy analyzing good design, optimizing

@@ -31,6 +31,22 @@
       "github": "https://github.com/Rogok-Serg/fe-78-hw-7",
       "demo": "https://rogok-serg.github.io/fe-78-hw-7/",
       "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739295/my-portfolio/da7dd304-bdd2-4230-a134-71e0c7272d0d.png"
+    },
+    {
+      "title": "SkillHunter",
+      "description": "A commercial website developed for an HR agency specializing in IT talent acquisition. Built using Tilda for quick and efficient deployment, the site focuses on clean layout, responsive design, and an intuitive structure that highlights the agency’s services and expertise. The design aligns with the client’s brand identity and business goals",
+      "tech": ["Tilda", "HTML", "CSS", "JavaScript", "Figma"],
+      "github": "",
+      "demo": "https://skillhunter-hr.vercel.app/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747904636/my-portfolio/83d7f375-791a-45df-ad2d-4a91dbe04042.png"
+    },
+    {
+      "title": "NeuroLide",
+      "description": "A landing page developed for a client in the AI and neural interface space. The project features a clean, modern design with attention to responsive layout, performance, and visual appeal. The goal was to present the product concept and attract early interest in a sleek, tech-forward manner",
+      "tech": ["Tilda", "HTML", "CSS", "JavaScript", "Figma"],
+      "github": "",
+      "demo": "https://neurolide.vercel.app/",
+      "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747904329/my-portfolio/67fb46a4-341a-4db8-9f1e-3537bb1c6ab0.png"
     }
   ],
   "team": [
