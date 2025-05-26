@@ -23,6 +23,11 @@ export default function Home() {
         <meta name="author" content="Serhii Rozhok" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="canonical" href="https://serhiirozhok.vercel.app/" />
+        <meta
+          name="google-site-verification"
+          content="P2A5rNwJwzC1P4lbPZ_qAkHJCv0icyM95xFmDAF4JTQ"
+        />
         <meta
           property="og:title"
           content="Serhii Rozhok | Frontend Developer"
@@ -31,8 +36,10 @@ export default function Home() {
           property="og:description"
           content="Explore Serhii’s portfolio: modern projects, technologies, and contact information."
         />
+        <meta name="robots" content="index, follow" />
         <meta property="og:url" content="https://serhiirozhok.vercel.app" />
         <meta property="og:type" content="website" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta
           property="og:image"
           content="https://serhiirozhok.vercel.app/og-image.png"
