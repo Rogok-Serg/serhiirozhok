@@ -1,7 +1,6 @@
 import ProjectCard from "./ProjectCard";
 
 import projects from "../data/projects.json";
-import Image from "next/image";
 
 export default function Projects() {
   return (

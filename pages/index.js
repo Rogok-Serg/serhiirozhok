@@ -11,9 +11,32 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Serhii Rozhok</title>
-        <meta name="description" content="Frontend Developer Portfolio" />
+        <title>Serhii Rozhok | Frontend Developer</title>
+        <meta
+          name="description"
+          content="Portfolio website of Serhii Rozhok – showcasing real projects, modern tech stack and contact details."
+        />
+        <meta
+          name="keywords"
+          content="Frontend Developer, React, Next.js, Tailwind, Portfolio, Serhii Rozhok"
+        />
+        <meta name="author" content="Serhii Rozhok" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <meta
+          property="og:title"
+          content="Serhii Rozhok | Frontend Developer"
+        />
+        <meta
+          property="og:description"
+          content="Explore Serhii’s portfolio: modern projects, technologies, and contact information."
+        />
+        <meta property="og:url" content="https://serhiirozhok.vercel.app" />
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content="https://serhiirozhok.vercel.app/og-image.png"
+        />
       </Head>
 
       <main className="bg-gray-900 text-white scroll-smooth min-h-screen flex flex-col lg:flex-row">

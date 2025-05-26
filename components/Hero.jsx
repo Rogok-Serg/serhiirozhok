@@ -5,7 +5,7 @@ export default function Hero() {
         Serhii Rozhok
       </h1>
       <h2 className="text-3xl sm:text-4xl font-semibold text-gray-400 mb-6">
-        I build things for the web.
+        Frontend Developer
       </h2>
       <p className="text-gray-300 max-w-xl mb-8">
         I'm a frontend developer specializing in building responsive and
