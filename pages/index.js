@@ -45,6 +45,27 @@ export default function Home() {
           property="og:image"
           content="https://serhiirozhok.vercel.app/og-image.png"
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Person",
+              name: "Serhii Rozhok",
+              url: "https://serhiirozhok.vercel.app",
+              image: "https://serhiirozhok.vercel.app/og-image.png",
+              sameAs: [
+                "https://github.com/rogok-serg",
+                "https://www.linkedin.com/in/serhii-rozhok",
+              ],
+              jobTitle: "Frontend Developer",
+              worksFor: {
+                "@type": "Organization",
+                name: "Freelance / Open to Work",
+              },
+            }),
+          }}
+        />
       </Head>
 
       <main className="bg-gray-900 text-white scroll-smooth min-h-screen flex flex-col lg:flex-row">
