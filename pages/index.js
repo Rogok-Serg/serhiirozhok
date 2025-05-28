@@ -23,7 +23,13 @@ export default function Home() {
         />
         <meta name="author" content="Serhii Rozhok" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link
+          rel="icon"
+          type="image/png"
+          sizes="64x64"
+          href="/favicon.png"
+        />{" "}
         <link rel="canonical" href="https://serhiirozhok.vercel.app/" />
         <meta
           name="google-site-verification"
