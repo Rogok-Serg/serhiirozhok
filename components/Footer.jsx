@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTelegram } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -23,13 +23,13 @@ export default function Footer() {
           <FaLinkedin size={24} />
         </a>
         <a
-          href="https://twitter.com/rogok-serg"
+          href="https://t.me/serg_rzhk"
           target="_blank"
           rel="noreferrer"
-          aria-label="Twitter"
+          aria-label="Telegram"
           className="hover:text-cyan-300 transition"
         >
-          <FaTwitter size={24} />
+          <FaTelegram size={24} />
         </a>
       </div>
     </footer>
