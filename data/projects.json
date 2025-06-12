@@ -13,7 +13,7 @@
       "description": "Meme Catalog is a responsive web application that allows users to explore, view, and manage a collection of memes. Built with React and styled using Tailwind CSS and HeroUI, the app features an interactive table view and card view, complete with editing modals and real-time form validation.",
       "tech": ["Next.js", "HeroUI", "Tailwind CSS", "Railway"],
       "github": "https://github.com/Rogok-Serg/meme-catalog",
-      "demo": "https://meme-catalog-production-6ee7.up.railway.app/",
+      "demo": "https://meme-catalog.vercel.app/",
       "image": "https://res.cloudinary.com/dhwh84bqq/image/upload/f_auto,q_auto/v1747739581/my-portfolio/241a88a4-9258-45f4-a08d-292a9c55ace9.png"
     },
     {
