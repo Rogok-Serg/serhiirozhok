@@ -1,4 +1,4 @@
-import { FaGithub, FaLinkedin, FaTelegram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTelegram, FaEnvelope } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -30,6 +30,15 @@ export default function Footer() {
           className="hover:text-cyan-300 transition"
         >
           <FaTelegram size={24} />
+        </a>
+        <a
+          href="mailto:sergrozhok07@gmail.com"
+          target="_blank"
+          rel="noreferrer"
+          aria-label="Email"
+          className="hover:text-cyan-300 transition"
+        >
+          <FaEnvelope size={24} />
         </a>
       </div>
     </footer>
