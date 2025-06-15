@@ -14,6 +14,9 @@ export default function Contact() {
       </p>
       <a
         href="mailto:sergrozhok07@gmail.com"
+        target="_blank"
+        rel="noreferrer"
+        aria-label="Email"
         className="inline-block mt-4 px-6 py-3 border border-cyan-400 text-cyan-400 hover:bg-cyan-400 hover:text-black transition rounded-lg font-medium"
       >
         Say Hello
